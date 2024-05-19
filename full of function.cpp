@@ -5,7 +5,6 @@ using namespace std;
 int findTotal(int x,int y);
 double findAvg(int total);
 void output(int total,double avg);
-void greeting();
 void greeting(){
 	cout<<"WELCOME TO MY PROGRAM ^-^"<<endl<<endl;
 	cout<<"NICE TO MEET YOU :]"<<endl<<endl;
